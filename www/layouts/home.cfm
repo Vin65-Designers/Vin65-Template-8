@@ -63,7 +63,7 @@
         
         <div id="featureImage">
         		<!---<img src="/assets/images/feature-wine.png" width="235" height="555" alt="Featured Wine">--->
-                <cf_pods location="featureImage" type="image">
+                <cf_pods location="Feature Image" type="image">
         </div>
         
         <div id="featureDescription">
