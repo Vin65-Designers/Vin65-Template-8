@@ -208,9 +208,6 @@ blockquote {
 		}
 	
 		#user-tools {
-			width:300px;
-			line-height:24px;
-			height:24px;
 			}
 
 		#user-tools a {
@@ -698,11 +695,6 @@ a#v65-toggleModalCart {
 	display:block;
 	padding:0 0 0 24px;
 	}
-
-.v65-product2Up {
-	width:310px;
-	margin:0 40px 25px 0;
-	}
 	
 .v65-promoGroupProductTeaser {
 	border-bottom:1px solid #666;
@@ -729,4 +721,20 @@ a#v65-toggleModalCart {
 .v65-promoGroupAddToCart {
 	float:right;
 	width:100px;
+	}
+	
+#v65-fieldset-paymentMethod{
+	float:left;
+	width:400px;
+	}
+
+form#v65-checkBilling .v65-additionalComments {
+	float:none;
+	margin-left:10px;
+	padding:15px 0 0;
+	width:390px;
+	}
+
+#v65-signUpClubSummaryWrapper {
+	margin-bottom: 20px;
 	}
