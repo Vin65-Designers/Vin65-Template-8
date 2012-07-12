@@ -1,5 +1,4 @@
-<cfoutput> 
-<!DOCTYPE html>
+<cfoutput> <!DOCTYPE html>
 <html>
 <head>
   
@@ -26,7 +25,7 @@
 		
 	<!---Header--->
 	<div id="header">
-		<div id="logo"><a href="/" accesskey="h"><img src="/assets/images/logo.png" width="357" height="146" alt="Vin65 Template 8"></a></div>
+		<div id="logo"><a href="/" accesskey="h"><img src="/assets/images/logo.png" width="357" height="146" alt="<cf_websiteName>"></a></div>
         
         <!---User Tools--->
         <div id="user-toolsWrapper">
@@ -90,5 +89,4 @@
 <cf_vin65GlobalFooterAssets>
 
 </body>
-</html>
- </cfoutput>
+</html> </cfoutput>
