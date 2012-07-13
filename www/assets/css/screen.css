@@ -227,6 +227,7 @@ blockquote {
 	font-size:1.3em;
 	text-transform:uppercase;
 	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	overflow:hidden;
 	}
 	
 	#topMenu ul {
