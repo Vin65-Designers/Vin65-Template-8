@@ -1,5 +1,4 @@
-<cfoutput> 
-<!DOCTYPE html>
+<cfoutput> <!DOCTYPE html>
 <html>
 <head>
   
@@ -20,20 +19,20 @@
 
 	<div id="printWrapper">
 	
-		<div id="printHeader"><img src="/assets/images/email/header.gif" alt="<cf_websiteName>" width="700" height="150"></div>
+		<div id="printHeader"><img src="/assets/images/email/header.gif" alt="<cf_websiteName>"></div>
 		
 		<div id="printContent">
 			<cf_mainContent>
 		</div>
+
+		<p style="text-align: center;">
+			<span style="font-weight: bold;">Template 8</span><br>
+			111 North Street, Our City, CA (707) 888-9090
+		</p>
 	
 	</div>	
-	
-	<!---Analytics--->
-	<cf_googleAnalytics>	
-	<!---/Analytics--->
 	
 <cf_vin65GlobalFooterAssets>
 
 </body>
-</html>
- </cfoutput>
+</html> </cfoutput>
